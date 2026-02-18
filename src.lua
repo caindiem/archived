@@ -904,7 +904,7 @@ function Library:create(options)
 
 	rawset(mt, "creditsContainer", creditsTab.container)
 
-	creditsTab:credit{Name = "voixdesaint", Description = "UI Creator", Discord = "leideus"}
+	creditsTab:credit{Name = "voixdesaint", Description = "Creator", Discord = "leideus"}
 
 	return mt
 end
