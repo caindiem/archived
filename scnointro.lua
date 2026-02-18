@@ -1,4 +1,4 @@
-_G.skipintro = false
+_G.skipintro = true
 ------INTRO
 if game.Players.LocalPlayer.PlayerGui:FindFirstChild("Sephirah") and not _G.skipintro then
 local Parent = game.Players.LocalPlayer.PlayerGui.Sephirah
